@@ -27,6 +27,7 @@
 		473393C22A59317F00058758 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		473393C92A5935B600058758 /* vec3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = vec3.h; sourceTree = "<group>"; };
 		473393CA2A5937AD00058758 /* color.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = color.h; sourceTree = "<group>"; };
+		473393CB2A5938F800058758 /* ray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ray.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				473393C22A59317F00058758 /* main.cpp */,
 				473393C92A5935B600058758 /* vec3.h */,
 				473393CA2A5937AD00058758 /* color.h */,
+				473393CB2A5938F800058758 /* ray.h */,
 			);
 			path = raytracingseries;
 			sourceTree = "<group>";
